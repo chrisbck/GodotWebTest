@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://3r8n4vtfjxnx"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+offset_left = 290.0
+offset_top = 91.0
+offset_right = 757.0
+offset_bottom = 484.0
+
+[node name="Label" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 201.0
+offset_top = 176.0
+offset_right = 296.0
+offset_bottom = 202.0
+text = "Hello World!"
